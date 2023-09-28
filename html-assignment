@@ -2,107 +2,79 @@
 <html lang="en">
 
 <head>
+    <title>Jasmine kaur</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jasmine kaur - Personal Website</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html {
+            background-color: lightpink;
+        }
 
+        body {
+            font-family: Times New Roman;
+            font-size: 140%;
+            border: 2px solid powderblue;
+            padding: 30px;
+        }
+     
+    </style>
+</head>
 <body>
-    <header>
-        <h1>Jasmine kaur</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <section id="about">
-        <h2>About Me</h2>
-        <p style="color:rgb(104, 24, 84)"><br>
-            Hi,my name is <i style="color:rgba(138, 18, 68, 0.719)">Jasmine kaur</i></blockquote> . I'm from
-            patiala punjab and living
-            in canada as a
-            international student from past
-            <sup> 1.5 years</sup>.
-            my father works in indian railways and my mother is a bussiness women and she is living in new york.I have
-            one
-            elder brother
-            who is also a bussiness man and travelling all over the globe. My parents are very supportive so i have
-            intrestes in different field
-            as they support me finacially and making me mentally strong for every prespectives of life. Basically, I'm
-            multifunctional as I'm a state
-            and national badmintion player and a state swimmer,not only this , i become lifesaving society lifeguard by
-            hard
-            work without anybodies help.
-            apart from sports i love creativity i have created alot of painting,portatrts ,abstract art and many
-            different
-            forms of art,therefor, i think like
-            and artist and i use this imagination into different fields.
-        </p>
-    </section>
-    <section id="portfolio">
-        <h2>Portfolio</h2>
-        <!-- Add your portfolio items here -->
-    </section>
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Email: mahayjass3122@gmail.com</p>
-        <p>location:ON,canada</p>
-    </section>
-    <footer>
-        <p>&copy; 2023 jasmine kaur</p>
-    </footer>
+    <h1 style="color:rgb(75, 3, 18)">About Me</h1>
+
+    <p1 style="color:rgb(104, 24, 84)"><br>
+        Hi,my name is <i style="color:rgba(138, 18, 68, 0.719)">Jasmine kaur</i></blockquote> . I'm from
+        patiala punjab and living
+        in canada as a
+        international student from past
+        <sup> 1.5 years</sup>.
+        my father works in indian railways and my mother is a bussiness women and she is living in new york.I have
+        one
+        elder brother
+        who is also a bussiness man and travelling all over the globe. My parents are very supportive so i have
+        intrestes in different field
+        as they support me finacially and making me mentally strong for every prespectives of life. Basically, I'm
+        multifunctional as I'm a state
+        and national badmintion player and a state swimmer,not only this , i become lifesaving society lifeguard by
+        hard
+        work without anybodies help.
+        apart from sports i love creativity i have created alot of painting,portatrts ,abstract art and many
+        different
+        forms of art,therefor, i think like
+        and artist and i use this imagination into different fields.
+
+    </p1><br>
+    <h2 style="color:rgb(78, 15, 15)">Things i'm intrested in</h2>
+    <p2 style="color:rgba(107, 16, 95, 0.877);">
+
+        I have bit passion in modeling as i have done some shoots and i participated in some punjabi movies. I'm a
+        makeup artist as i learn it from one of the
+        famous makeup artsist teacher and i starting earning in makeup as well , i use my creativity in makeup as
+        well.
+
+        Taking about photoshope i like to
+        shoot at many places and like to collect photographs. I worked at many places in canada as a counter staff
+        in
+        Tim hortons, <abbr title="lifeguard">Lf</abbr>, and worked in
+        <abbr title="kitechen stuff plus">KSP</abbr>. I love travelling i have visited many place in india like kolkata,
+        goa, chanai, mumbai
+        etc.
+
+        I want to become a software developer
+        and pilot.<br>
+
+
+    </p2>
 </body>
+</pre>
+<footer><br>
+    <p3>lines of the day</p3>
+</footer></br>
+<q><em>If you see the moon you will fall for the beauty, if you see the sun you will get the power</em></q>
+
+<address>
+    writen by jasmine kaur
+
+</address>
 
 </html>
-/* Reset some default styles */
-body, h1, h2, p {
-margin: 0;
-padding: 0;
-}
-
-/* Basic styling */
-body {
-font-family: Arial, sans-serif;
-background-color: #f0f0f0;
-color: #333;
-}
-
-header {
-background-color: #333;
-color: #fff;
-padding: 20px;
-text-align: center;
-}
-
-nav ul {
-list-style: none;
-}
-
-nav ul li {
-display: inline;
-margin-right: 20px;
-}
-
-nav a {
-text-decoration: none;
-color: #fff;
-}
-
-section {
-padding: 40px;
-background-color: #fff;
-margin: 20px;
-border-radius: 5px;
-box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-}
-
-footer {
-text-align: center;
-padding: 10px;
-background-color: #333;
-color: #fff;
-}
